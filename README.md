@@ -41,7 +41,7 @@ metrics, and plots comparisons to support practical business decisions.
    jupyter notebook
    ```
 
-5. Open `YourName_SupermarketSalesAnalysis.ipynb` and choose **Run All**.
+5. Open `Krithik Gokul S_SupermarketSalesAnalysis.ipynb` and choose **Run All**.
 6. Keep `SUPER MARKET DATA - supermarket_sales_500_rows.csv` in the same folder,
    or allow the notebook to fetch the source CSV online.
 
@@ -63,8 +63,8 @@ submission.
 
 ## Deliverables
 
-- `YourName_SupermarketSalesAnalysis.ipynb` — complete analysis and charts.
-- `YourName_ProjectReport.docx` — formatted project report.
+- `Krithik Gokul S_SupermarketSalesAnalysis.ipynb` — complete analysis and charts.
+- `Krithik Gokul S_ProjectReport.docx` — formatted project report.
 - `requirements.txt` — Python dependencies.
 - `README.md` — project and run instructions.
 
